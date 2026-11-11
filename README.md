@@ -53,4 +53,4 @@ pip install -r requirements.txt
 ## Auteurs
 
 - **Yaye Fatou Lam** · [LinkedIn](https://www.linkedin.com/in/yaye-fatou-lam-258925412)
-- **Imad Asennane** · [GitHub](https://github.com/asennane)
+- **Imad Asennane**
