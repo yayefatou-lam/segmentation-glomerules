@@ -2,6 +2,7 @@
 data/
 outputs/
 *.pt
+*.pth
 assets.zip
 
 # Fichiers générés
